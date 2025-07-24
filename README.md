@@ -25,7 +25,7 @@ Este projeto sincroniza produtos entre a API do Bling e a API da Reval.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/sua-empresa/nome-do-repo.git
+git clone https://github.com/zStrikerHD/projeto-empresa.git
 ```
 
 2. Instale as dependências:
